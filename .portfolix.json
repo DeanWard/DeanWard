@@ -1,7 +1,29 @@
 {
   "title": "Dean Ward - Full Stack Developer",
   "emoji": "🚀",
-  "footer": "✨ portfolio viewer • Press q to quit • Built with ❤️ by @deanward",
+  "footer": "✨ Developer Profile • Press q to quit • Built with ❤️ by @deanward",
+  "links": [
+    {
+      "type": "web",
+      "label": "GitHub Profile",
+      "value": "https://github.com/deanward"
+    },
+    {
+      "type": "web",
+      "label": "Erugo Website",
+      "value": "https://erugo.app"
+    },
+    {
+      "type": "email",
+      "label": "Send Email",
+      "value": "mailto:dean@oveio.io"
+    },
+    {
+      "type": "social",
+      "label": "LinkedIn",
+      "value": "https://www.linkedin.com/in/deanlward/"
+    }
+  ],
   "theme": {
     "text": {
       "heading1": "#ff6b6b",

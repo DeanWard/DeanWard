@@ -16,6 +16,7 @@ A powerful, self-hosted file-sharing platform that puts you in control of your d
 
 ### HAL MCP
 HTTP API Layer for Large Language Models. An MCP server that enables LLMs to interact with web APIs securely, with automatic OpenAPI tool generation and sophisticated secret management.
+
 [HAL Repository](https://github.com/DeanWard/HAL)
 
 [HAL Docs](https://deanward.github.io/HAL/)

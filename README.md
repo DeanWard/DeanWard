@@ -1,6 +1,6 @@
 # Dean Ward
 
-**Lead Developer** based in Manchester, building scalable web applications and developer tools.
+**Lead Developer** based in Manchester, UK building scalable web applications and developer tools.
 
 ## What I'm Working On
 

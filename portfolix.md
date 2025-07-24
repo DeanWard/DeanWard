@@ -1,51 +1,46 @@
 # Dean Ward
 
-**Lead Developer** • Manchester, UK • Building the future of web development
+**Lead Developer** based in Manchester, building scalable web applications and developer tools.
 
-## Current Projects
+## What I'm Working On
 
-**[Erugo](https://github.com/ErugoOSS/Erugo)** - Self-hosted file sharing
-A powerful platform that puts you in control of your data. Built with Laravel and Vue.js.
-Join the [community on Discord](https://discord.gg/M74X2wmqY8).
+### Erugo
+A powerful, self-hosted file-sharing platform that puts you in control of your data. Built with Laravel and Vue.js, featuring human-friendly share links, secure access controls, and Docker deployment. 
 
-**[HAL](https://github.com/DeanWard/HAL)** - HTTP API Layer for LLMs  
-Enables secure LLM-to-API interactions with automatic OpenAPI tool generation.
+[Erugo Repository](https://github.com/ErugoOSS/Erugo)
 
-**[Portfolix](https://github.com/DeanWard/portfolix)** - Portfolio CLI Viewer
-Beautiful terminal-based portfolio viewer you're using right now!
+[Erugo Website](https://erugo.app)
 
-## Technical Skills
+[community on Discord](https://discord.gg/M74X2wmqY8).
 
-**Languages:** PHP • TypeScript • JavaScript • Vue.js • Laravel
-**DevOps:** Docker • Docker Compose • CI/CD
-**Databases:** MySQL • SQLite • Redis
-**Architecture:** REST APIs • MCP • Microservices
 
-## Philosophy
+### HAL MCP
+HTTP API Layer for Large Language Models. An MCP server that enables LLMs to interact with web APIs securely, with automatic OpenAPI tool generation and sophisticated secret management.
 
-> Building tools that solve real problems and sharing them with the community.
+[HAL Repository](https://github.com/DeanWard/HAL)
 
-### Core Principles
+[HAL Docs](https://deanward.github.io/HAL/)
 
-▸ **Developer Experience First** - Tools should be intuitive and well-documented
-▸ **Security by Design** - Proper authentication and authorization from day one  
-▸ **Self-Hosting Friendly** - Give users control over their data and infrastructure
-▸ **Open Source** - Knowledge should be shared and accessible
+
+## Tech Stack
+
+**Backend:** PHP, Laravel, Node.js, TypeScript  
+**Frontend:** Vue.js, JavaScript, HTML5, CSS3  
+**DevOps:** Docker, Docker Compose  
+**Databases:** MySQL, SQLite  
+**Architecture:** REST APIs, MCP (Model Context Protocol)
+
+## Open Source Philosophy
+
+I believe in building tools that solve real problems and sharing them with the community. My projects focus on:
+
+- **Developer Experience** - Tools should be easy to deploy and configure
+- **Security First** - Proper authentication, authorization, and secret management
+- **Self-Hosting** - Give users control over their data and infrastructure
+- **Clean Code** - Maintainable, well-documented solutions
 
 ## Currently Exploring
 
-Investigating Model Context Protocol (MCP) servers and how they bridge the gap between AI and traditional web infrastructure. Particularly interested in:
-
-- LLM integration patterns for existing applications
-- Secure API access management for AI systems
-- Developer tooling for the AI-enabled web
-
----
-
-## Get In Touch
-
-- **GitHub:** [@DeanWard](https://github.com/DeanWard)
-- **Email:** [hello@deanward.dev](mailto:hello@deanward.dev)
-- **Location:** Manchester, UK
+Model Context Protocol (MCP) servers and the intersection of AI tooling with traditional web development. Interested in how we can bridge the gap between LLMs and existing web infrastructure.
 
 *Building one commit at a time* ⚡ 

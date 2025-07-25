@@ -44,3 +44,20 @@ I believe in building tools that solve real problems and sharing them with the c
 Model Context Protocol (MCP) servers and the intersection of AI tooling with traditional web development. Interested in how we can bridge the gap between LLMs and existing web infrastructure.
 
 *Building one commit at a time* ⚡ 
+
+
+## Portfolix Tests
+
+Here's a markdown table for testing your renderer:
+
+| Feature | Supported | Notes |
+|---------|-----------|-------|
+| **Bold text** | ✅ | Should render in bold |
+| *Italic text* | ✅ | Should render in italics |
+| `Code spans` | ✅ | Monospace formatting |
+| ~~Strikethrough~~ | ✅ | Line through text |
+| Links | ✅ | [Example](https://example.com) |
+| Alignment | Left | Default alignment |
+| Numbers | 42 | Regular numeric data |
+| Special chars | & < > " | HTML entities test |
+

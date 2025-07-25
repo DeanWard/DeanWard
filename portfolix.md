@@ -48,7 +48,7 @@ Model Context Protocol (MCP) servers and the intersection of AI tooling with tra
 
 ## Portfolix Tests
 
-Here's a markdown table for testing your renderer:
+Table test
 
 | Feature | Supported | Notes |
 |---------|-----------|-------|

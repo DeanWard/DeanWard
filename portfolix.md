@@ -48,16 +48,14 @@ Model Context Protocol (MCP) servers and the intersection of AI tooling with tra
 
 ## Portfolix Tests
 
-Table test
+### Table test
 
-| Feature | Supported | Notes |
-|---------|-----------|-------|
-| **Bold text** | ✅ | Should render in bold |
-| *Italic text* | ✅ | Should render in italics |
-| `Code spans` | ✅ | Monospace formatting |
-| ~~Strikethrough~~ | ✅ | Line through text |
-| Links | ✅ | [Example](https://example.com) |
-| Alignment | Left | Default alignment |
-| Numbers | 42 | Regular numeric data |
-| Special chars | & < > " | HTML entities test |
+Only basic tables are supported. Formatting inside tables, emoji, links, etc will cause layout issues.
 
+| Name | Age | City | Occupation |
+|------|-----|------|------------|
+| John Smith | 28 | London | Engineer |
+| Sarah Jones | 34 | Manchester | Teacher |
+| Mike Brown | 41 | Birmingham | Doctor |
+| Lisa Wilson | 29 | Leeds | Designer |
+| Tom Davis | 36 | Liverpool | Lawyer |

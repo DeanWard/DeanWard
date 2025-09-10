@@ -21,6 +21,11 @@ HTTP API Layer for Large Language Models. An MCP server that enables LLMs to int
 
 [HAL Docs](https://deanward.github.io/HAL/)
 
+### Janus MCP
+Janus MCP is a Model Context Protocol server that enables AI assistants to understand and interact with OpenAPI specifications. It provides your AI with deep insight into API structures, making API integration projects faster and more accurate.
+
+[Janus Repository](https://github.com/DeanWard/janus-mcp)
+
 
 ## Tech Stack
 

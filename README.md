@@ -21,7 +21,7 @@ HTTP API Layer for Large Language Models. An MCP server that enables LLMs to int
 
 [HAL Docs](https://deanward.github.io/HAL/)
 
-[Janus on Lobehub](https://lobehub.com/mcp/deanward-hal)
+[HAL on Lobehub](https://lobehub.com/mcp/deanward-hal)
 
 
 ### Janus MCP

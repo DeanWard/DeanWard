@@ -32,19 +32,11 @@ Janus MCP is a Model Context Protocol server that enables AI assistants to under
 [Janus on Lobehub](https://lobehub.com/mcp/deanward-janus-mcp)
 
 
-## Tech Stack
-
-**Backend:** PHP, Laravel, Node.js, TypeScript  
-**Frontend:** Vue.js, JavaScript, HTML5, CSS3  
-**DevOps:** Docker, Docker Compose  
-**Databases:** MySQL, SQLite  
-**Architecture:** REST APIs, MCP (Model Context Protocol)
-
 ## Open Source Philosophy
 
 I believe in building tools that solve real problems and sharing them with the community. My projects focus on:
 
-- **Developer Experience** - Tools should be easy to deploy and configure
+- **User Experience** - Tools should be easy to deploy and configure
 - **Security First** - Proper authentication, authorization, and secret management
 - **Self-Hosting** - Give users control over their data and infrastructure
 - **Clean Code** - Maintainable, well-documented solutions
